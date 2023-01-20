@@ -11,6 +11,18 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+删除 MetaMask 扩展时，私钥/助记词文件会如何？<br>
+https://twitter.com/evilcos/status/1615540204441591814
+
+当你电脑中相关木马后，木马是如何黑掉你的 MetaMask 的<br>
+https://twitter.com/evilcos/status/1615931120457220100
+
+为什么 WETH 一个签名就被钓走<br>
+https://twitter.com/evilcos/status/1615220059299000324
+
+Web3 Cybersecurity Academy - Enhancing user asset security Lesson 1<br>
+https://twitter.com/1nf0s3cpt/status/1614612129671438343
+
 Telegram 盗号导致盗币<br>
 https://twitter.com/evilcos/status/1611541986120732672
 
