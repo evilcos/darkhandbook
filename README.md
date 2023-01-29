@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+NFT 钓鱼 Apetainz 的 UI 伪装欺骗<br>
+https://twitter.com/evilcos/status/1619504230586535936
+
 删除 MetaMask 扩展时，私钥/助记词文件会如何？<br>
 https://twitter.com/evilcos/status/1615540204441591814
 
