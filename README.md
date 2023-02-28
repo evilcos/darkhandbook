@@ -11,6 +11,21 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+闪电网络通道科普一例：
+https://twitter.com/evilcos/status/1628945985811660800
+
+如果你的 Discord token 被钓了，但被你及时发现，以下哪个做法并不能阻止黑客使用你的 Discord token 权限？
+https://twitter.com/evilcos/status/1628018317893181440
+
+被钓鱼网站钓走钱包签名后，相关资产被盗了，这个钱包还安全吗？
+https://twitter.com/evilcos/status/1625387330117992449
+
+Twitter 链接预览 User-Agent 欺骗钓鱼：
+https://twitter.com/evilcos/status/1624268782993821696
+
+闪电网络地址等有关科普：
+https://twitter.com/evilcos/status/1621380824867430400
+
 NFT 钓鱼 Apetainz 的 UI 伪装欺骗<br>
 https://twitter.com/evilcos/status/1619504230586535936
 
