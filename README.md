@@ -11,6 +11,24 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+钱包有关的事件伪造+首尾字符欺骗钓鱼：<br>
+https://twitter.com/evilcos/status/1639125376285945857
+
+针对 Cloudflare 的静默劫持攻击：<br>
+https://twitter.com/evilcos/status/1639122575229087744
+
+可升级智能合约偷梁换柱钓鱼盗币：<br>
+https://twitter.com/evilcos/status/1639114967680159744
+
+MetaMask 支持 EIP-4361，钱包同源策略开始来了：<br>
+https://twitter.com/evilcos/status/1639091781374717953
+
+针对 Blur 平台的 NFT “盲签”钓鱼：<br>
+https://twitter.com/evilcos/status/1632712060114194433
+
+如下四种签名弹框，安全性如何？为什么？<br>
+https://twitter.com/evilcos/status/1632663595757760512
+
 闪电网络通道科普一例：<br>
 https://twitter.com/evilcos/status/1628945985811660800
 
