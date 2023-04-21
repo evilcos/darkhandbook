@@ -11,6 +11,28 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+警惕 WalletConnect 使用不当可能存在的钓鱼风险：<br>
+https://twitter.com/evilcos/status/1648306943583457280
+
+关于链游木马及浏览器扩展木马的安全提醒：<br>
+https://twitter.com/evilcos/status/1644551979618955265
+
+慢雾针对 Web3 项目的安全实践要求：<br>
+https://twitter.com/evilcos/status/1644237107945414656
+![image_01_00](https://raw.githubusercontent.com/slowmist/Web3-Project-Security-Practice-Requirements/main/assets/image_01_en.png)
+
+呼吁钱包们禁用 eth_sign 这种盲签机制：<br>
+https://twitter.com/evilcos/status/1643410971409670145
+
+Mac 电脑中毒后的危害都有哪些：<br>
+https://twitter.com/evilcos/status/1640935800195125248
+
+偷 Gas 的空投代币：<br>
+https://twitter.com/evilcos/status/1640618513676263424
+
+小心你的钱包及相关账号被链游木马一窝端：<br>
+https://twitter.com/evilcos/status/1640366330405883906
+
 钱包有关的事件伪造+首尾字符欺骗钓鱼：<br>
 https://twitter.com/evilcos/status/1639125376285945857
 
