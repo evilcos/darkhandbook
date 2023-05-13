@@ -11,6 +11,38 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+小心小应用拿走你 Twitter 账号的许多关键权限：<br>
+https://twitter.com/evilcos/status/1657220098174889984
+
+慢雾：Web3 钱包 eth_sign 支持情况分析：<br>
+https://twitter.com/evilcos/status/1656576468946915328
+
+流行的 Permit 签名钓鱼再解析：<br>
+https://twitter.com/evilcos/status/1656543466707648514
+
+Scam Sniffer 专门针对 Permit2 签名钓鱼出的安全检查和取消授权解决方案：<br>
+https://twitter.com/evilcos/status/1655831186743394306
+
+RevokeCash 出的取消签名功能：<br>
+https://twitter.com/evilcos/status/1655744296828694528
+
+比特币铭文(Ordinals)/BRC-20 风险提醒：<br>
+https://twitter.com/evilcos/status/1654710328960364544<br>
+https://twitter.com/evilcos/status/1654408076605407232<br>
+https://twitter.com/evilcos/status/1653296237662334976
+
+钓鱼网页禁用开发者工具(DevTools)技巧：<br>
+https://twitter.com/evilcos/status/1652873300534767616
+
+进化中的钱包地址首尾号钓鱼技术能力：<br>
+https://twitter.com/evilcos/status/1652622264028766208
+
+CryptoPunks 一个漏洞导致的分叉文化：<br>
+https://twitter.com/evilcos/status/1650014094920151041
+
+RevokeCash 的这篇关于 Crypto 钓鱼的几种方式的总结很赞：<br>
+https://twitter.com/evilcos/status/1648697629453488128
+
 警惕 WalletConnect 使用不当可能存在的钓鱼风险：<br>
 https://twitter.com/evilcos/status/1648306943583457280
 
