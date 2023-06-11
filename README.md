@@ -11,6 +11,38 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+比特币铭文一键批量钓鱼：<br>
+https://twitter.com/evilcos/status/1667389165804343297
+
+把以太坊 NFT 带到比特币的做法是有去无回的(BRC-721E)：<br>
+https://twitter.com/evilcos/status/1666674623554129921
+
+别以为开启了 Discord 2FA 就万事大吉了：<br>
+https://twitter.com/evilcos/status/1665673399731998720
+
+伪造事件的诈骗合约，再科普：<br>
+https://twitter.com/evilcos/status/1664226365959446534
+
+Telegram 骗子伪造安全助手：<br>
+https://twitter.com/evilcos/status/1663848225554706432
+
+歌曲:) 随风潜入夜、润物细无声：<br>
+https://twitter.com/evilcos/status/1662274150319423489
+
+Ledger Recovery 引起有关硬件钱包的一些安全话题：<br>
+https://twitter.com/evilcos/status/1659724906609909761<br>
+https://twitter.com/evilcos/status/1659526623962755072<br>
+https://twitter.com/evilcos/status/1658400654195568641
+
+检查与取消与漏洞合约有关的授权：<br>
+https://twitter.com/evilcos/status/1659236088979034113
+
+一个安全冷知识：连接陌生 Wi-Fi 的安全风险已经比数年前小了非常非常多：<br>
+https://twitter.com/evilcos/status/1658817516599386112
+
+硬件钱包被高手替换了个有问题的固件：<br>
+https://twitter.com/evilcos/status/1658341670105288704
+
 小心小应用拿走你 Twitter 账号的许多关键权限：<br>
 https://twitter.com/evilcos/status/1657220098174889984
 
