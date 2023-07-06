@@ -11,111 +11,132 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
-比特币铭文一键批量钓鱼：<br>
+Blur V2 挂单盲签风险<br>
+https://twitter.com/evilcos/status/1676899283914870784?s=20
+
+Emblem Vault 中心化风险<br>
+https://twitter.com/evilcos/status/1676385791269011456?s=20
+
+OPENDIME 这个超级大骰子，功能非常单一的类硬件钱包<br>
+https://twitter.com/evilcos/status/1674955233364185088?s=20
+
+MetaMask 安全沙盒机制 LavaMoat<br>
+https://twitter.com/evilcos/status/1674789379125178370?s=20
+
+MPC 与智能合约钱包的一点看法<br>
+https://twitter.com/evilcos/status/1674394959615754241?s=20
+
+HTML 铭文引入的安全风险<br>
+https://twitter.com/evilcos/status/1673316843501793282?s=20
+
+Web3 安全入门（重点智能合约安全）<br>
+https://twitter.com/evilcos/status/1671088109591863296?s=20
+
+比特币铭文一键批量钓鱼<br>
 https://twitter.com/evilcos/status/1667389165804343297
 
-把以太坊 NFT 带到比特币的做法是有去无回的(BRC-721E)：<br>
+把以太坊 NFT 带到比特币的做法是有去无回的(BRC-721E)<br>
 https://twitter.com/evilcos/status/1666674623554129921
 
-别以为开启了 Discord 2FA 就万事大吉了：<br>
+别以为开启了 Discord 2FA 就万事大吉了<br>
 https://twitter.com/evilcos/status/1665673399731998720
 
-伪造事件的诈骗合约，再科普：<br>
+伪造事件的诈骗合约，再科普<br>
 https://twitter.com/evilcos/status/1664226365959446534
 
-Telegram 骗子伪造安全助手：<br>
+Telegram 骗子伪造安全助手<br>
 https://twitter.com/evilcos/status/1663848225554706432
 
-歌曲:) 随风潜入夜、润物细无声：<br>
+歌曲:) 随风潜入夜、润物细无声<br>
 https://twitter.com/evilcos/status/1662274150319423489
 
-Ledger Recovery 引起有关硬件钱包的一些安全话题：<br>
+Ledger Recovery 引起有关硬件钱包的一些安全话题<br>
 https://twitter.com/evilcos/status/1659724906609909761<br>
 https://twitter.com/evilcos/status/1659526623962755072<br>
 https://twitter.com/evilcos/status/1658400654195568641
 
-检查与取消与漏洞合约有关的授权：<br>
+检查与取消与漏洞合约有关的授权<br>
 https://twitter.com/evilcos/status/1659236088979034113
 
-一个安全冷知识：连接陌生 Wi-Fi 的安全风险已经比数年前小了非常非常多：<br>
+一个安全冷知识：连接陌生 Wi-Fi 的安全风险已经比数年前小了非常非常多<br>
 https://twitter.com/evilcos/status/1658817516599386112
 
-硬件钱包被高手替换了个有问题的固件：<br>
+硬件钱包被高手替换了个有问题的固件<br>
 https://twitter.com/evilcos/status/1658341670105288704
 
-小心小应用拿走你 Twitter 账号的许多关键权限：<br>
+小心小应用拿走你 Twitter 账号的许多关键权限<br>
 https://twitter.com/evilcos/status/1657220098174889984
 
-慢雾：Web3 钱包 eth_sign 支持情况分析：<br>
+慢雾：Web3 钱包 eth_sign 支持情况分析<br>
 https://twitter.com/evilcos/status/1656576468946915328
 
-流行的 Permit 签名钓鱼再解析：<br>
+流行的 Permit 签名钓鱼再解析<br>
 https://twitter.com/evilcos/status/1656543466707648514
 
-Scam Sniffer 专门针对 Permit2 签名钓鱼出的安全检查和取消授权解决方案：<br>
+Scam Sniffer 专门针对 Permit2 签名钓鱼出的安全检查和取消授权解决方案<br>
 https://twitter.com/evilcos/status/1655831186743394306
 
-RevokeCash 出的取消签名功能：<br>
+RevokeCash 出的取消签名功能<br>
 https://twitter.com/evilcos/status/1655744296828694528
 
-比特币铭文(Ordinals)/BRC-20 风险提醒：<br>
+比特币铭文(Ordinals)/BRC-20 风险提醒<br>
 https://twitter.com/evilcos/status/1654710328960364544<br>
 https://twitter.com/evilcos/status/1654408076605407232<br>
 https://twitter.com/evilcos/status/1653296237662334976
 
-钓鱼网页禁用开发者工具(DevTools)技巧：<br>
+钓鱼网页禁用开发者工具(DevTools)技巧<br>
 https://twitter.com/evilcos/status/1652873300534767616
 
-进化中的钱包地址首尾号钓鱼技术能力：<br>
+进化中的钱包地址首尾号钓鱼技术能力<br>
 https://twitter.com/evilcos/status/1652622264028766208
 
-CryptoPunks 一个漏洞导致的分叉文化：<br>
+CryptoPunks 一个漏洞导致的分叉文化<br>
 https://twitter.com/evilcos/status/1650014094920151041
 
-RevokeCash 的这篇关于 Crypto 钓鱼的几种方式的总结很赞：<br>
+RevokeCash 的这篇关于 Crypto 钓鱼的几种方式的总结很赞<br>
 https://twitter.com/evilcos/status/1648697629453488128
 
-警惕 WalletConnect 使用不当可能存在的钓鱼风险：<br>
+警惕 WalletConnect 使用不当可能存在的钓鱼风险<br>
 https://twitter.com/evilcos/status/1648306943583457280
 
-关于链游木马及浏览器扩展木马的安全提醒：<br>
+关于链游木马及浏览器扩展木马的安全提醒<br>
 https://twitter.com/evilcos/status/1644551979618955265
 
-慢雾针对 Web3 项目的安全实践要求：<br>
+慢雾针对 Web3 项目的安全实践要求<br>
 https://twitter.com/evilcos/status/1644237107945414656
 ![image_01_00](https://raw.githubusercontent.com/slowmist/Web3-Project-Security-Practice-Requirements/main/assets/image_01_en.png)
 
-呼吁钱包们禁用 eth_sign 这种盲签机制：<br>
+呼吁钱包们禁用 eth_sign 这种盲签机制<br>
 https://twitter.com/evilcos/status/1643410971409670145
 
-Mac 电脑中毒后的危害都有哪些：<br>
+Mac 电脑中毒后的危害都有哪些<br>
 https://twitter.com/evilcos/status/1640935800195125248
 
-偷 Gas 的空投代币：<br>
+偷 Gas 的空投代币<br>
 https://twitter.com/evilcos/status/1640618513676263424
 
-小心你的钱包及相关账号被链游木马一窝端：<br>
+小心你的钱包及相关账号被链游木马一窝端<br>
 https://twitter.com/evilcos/status/1640366330405883906
 
-钱包有关的事件伪造+首尾字符欺骗钓鱼：<br>
+钱包有关的事件伪造+首尾字符欺骗钓鱼<br>
 https://twitter.com/evilcos/status/1639125376285945857
 
-针对 Cloudflare 的静默劫持攻击：<br>
+针对 Cloudflare 的静默劫持攻击<br>
 https://twitter.com/evilcos/status/1639122575229087744
 
-可升级智能合约偷梁换柱钓鱼盗币：<br>
+可升级智能合约偷梁换柱钓鱼盗币<br>
 https://twitter.com/evilcos/status/1639114967680159744
 
-MetaMask 支持 EIP-4361，钱包同源策略开始来了：<br>
+MetaMask 支持 EIP-4361，钱包同源策略开始来了<br>
 https://twitter.com/evilcos/status/1639091781374717953
 
-针对 Blur 平台的 NFT “盲签”钓鱼：<br>
+针对 Blur 平台的 NFT “盲签”钓鱼<br>
 https://twitter.com/evilcos/status/1632712060114194433
 
 如下四种签名弹框，安全性如何？为什么？<br>
 https://twitter.com/evilcos/status/1632663595757760512
 
-闪电网络通道科普一例：<br>
+闪电网络通道科普一例<br>
 https://twitter.com/evilcos/status/1628945985811660800
 
 如果你的 Discord token 被钓了，但被你及时发现，以下哪个做法并不能阻止黑客使用你的 Discord token 权限？<br>
@@ -124,10 +145,10 @@ https://twitter.com/evilcos/status/1628018317893181440
 被钓鱼网站钓走钱包签名后，相关资产被盗了，这个钱包还安全吗？<br>
 https://twitter.com/evilcos/status/1625387330117992449
 
-Twitter 链接预览 User-Agent 欺骗钓鱼：<br>
+Twitter 链接预览 User-Agent 欺骗钓鱼<br>
 https://twitter.com/evilcos/status/1624268782993821696
 
-闪电网络地址等有关科普：<br>
+闪电网络地址等有关科普<br>
 https://twitter.com/evilcos/status/1621380824867430400
 
 NFT 钓鱼 Apetainz 的 UI 伪装欺骗<br>
