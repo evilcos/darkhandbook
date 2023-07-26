@@ -11,6 +11,21 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+陷阱合约：隐蔽的 Rug Pull，合约存储引起的跑路盘<br>
+https://twitter.com/evilcos/status/1684126488910761985?s=20
+
+关于 Worldcoin 采集虹膜这件事<br>
+https://twitter.com/evilcos/status/1683484789674844167?s=20
+
+关于匿名货币<br>
+https://twitter.com/evilcos/status/1682044499143569409?s=20
+
+钱包地址缩写建议：0x0000ac61…eb000000<br>
+https://twitter.com/evilcos/status/1679367167215812608?s=20
+
+陷阱合约：以取消授权名义盗走用户过大的 Gas<br>
+https://twitter.com/evilcos/status/1677837819350495233?s=20
+
 Blur V2 挂单盲签风险<br>
 https://twitter.com/evilcos/status/1676899283914870784?s=20
 
