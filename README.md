@@ -11,6 +11,24 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+在时间紧迫的场景下，当发现电脑疑似有“木马”，应当如何及时止损<br>
+https://twitter.com/evilcos/status/1691438131852312576?s=20
+
+friend.tech 的一些安全风险<br>
+https://twitter.com/evilcos/status/1692780573507596585?s=20<br>
+https://twitter.com/evilcos/status/1693581053972402453?s=20
+
+警惕恶意合约放长线钓大鱼<br>
+https://twitter.com/evilcos/status/1693083229191114875?s=20
+
+黑手册灵魂的安全建议就这两条：
+
+- 始终保持怀疑
+- 持续验证
+
+能真 get 这两点的，在 Crypto 行业也挺难踩大坑的…<br>
+https://twitter.com/evilcos/status/1694536755066875914?s=20
+
 一笔交易盗走用户可能所有有价值的 token<br>
 https://twitter.com/evilcos/status/1690202721260081153?s=20
 
