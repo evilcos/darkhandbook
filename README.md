@@ -5,7 +5,7 @@ Blockchain dark forest selfguard handbook<br>
 *Master these, master the security of your cryptocurrency.<br>*
 
 :fire:Website: https://darkhandbook.io/<br>
-:cn:中文版：[《区块链黑暗森林自救手册》](README_CN.md)<br>
+:cn:中文版：[《区块链黑暗森林自救手册》](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)<br>
 
 ## 扩展阅读，持续更新...
 
