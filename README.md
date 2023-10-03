@@ -11,15 +11,33 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
-在时间紧迫的场景下，当发现电脑疑似有“木马”，应当如何及时止损<br>
-https://twitter.com/evilcos/status/1691438131852312576?s=20
+friend.tech 用户账号被黑资产被盗案例<br>
+https://x.com/evilcos/status/1709030582150381713?s=20
 
-friend.tech 的一些安全风险<br>
-https://twitter.com/evilcos/status/1692780573507596585?s=20<br>
-https://twitter.com/evilcos/status/1693581053972402453?s=20
+钓鱼网站诱骗用户添加一个“新网络”，但 Chain ID 不变<br>
+https://x.com/evilcos/status/1707723997780344904?s=20
 
-警惕恶意合约放长线钓大鱼<br>
-https://twitter.com/evilcos/status/1693083229191114875?s=20
+陷阱合约：目标地址通过较隐蔽方式计算得出…<br>
+https://x.com/evilcos/status/1705156497481904519?s=20
+
+Coinbase Wallet 上的 Web3 消息网络协议钓鱼风险<br>
+https://x.com/evilcos/status/1704389310089453666?s=20
+
+friend.tech code 遍历风险<br>
+https://x.com/evilcos/status/1702649514283381218?s=20
+
+Vitalik 推特号被 SIM Swap 攻击<br>
+https://x.com/evilcos/status/1701413519798026676?s=20
+
+Lido 的 LDO Token 假充值风险<br>
+https://x.com/evilcos/status/1700796470163841125?s=20<br>
+*注：假充值风险是我们 2018 年首提且一直在沉淀研究的细分安全方向，这种风险主要影响的是中心化平台，如果没正确对接相关公链或 Token，就可能导致被假充值。这种风险广泛存在。*
+
+一个安全考点：有朋友私信问我：不小心点了这种签名，是否有被盗币风险<br>
+https://x.com/evilcos/status/1699691438802620781?s=20
+
+Discord 自定义靓号链接过期时被钓鱼团伙抢注风险<br>
+https://x.com/evilcos/status/1698259690000679049?s=20
 
 黑手册灵魂的安全建议就这两条：
 
@@ -28,6 +46,16 @@ https://twitter.com/evilcos/status/1693083229191114875?s=20
 
 能真 get 这两点的，在 Crypto 行业也挺难踩大坑的…<br>
 https://twitter.com/evilcos/status/1694536755066875914?s=20
+
+警惕恶意合约放长线钓大鱼<br>
+https://twitter.com/evilcos/status/1693083229191114875?s=20
+
+friend.tech 的一些安全风险<br>
+https://twitter.com/evilcos/status/1692780573507596585?s=20<br>
+https://twitter.com/evilcos/status/1693581053972402453?s=20
+
+在时间紧迫的场景下，当发现电脑疑似有“木马”，应当如何及时止损<br>
+https://twitter.com/evilcos/status/1691438131852312576?s=20
 
 一笔交易盗走用户可能所有有价值的 token<br>
 https://twitter.com/evilcos/status/1690202721260081153?s=20
