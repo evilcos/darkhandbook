@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+慎用围绕 friend.tech 做的各类工具<br>
+https://x.com/evilcos/status/1714178009291456602?s=20
+
+恶意书签盗取用户 friend.tech 资金<br>
+https://x.com/evilcos/status/1713164067358294293?s=20
+
 Crypto 钓鱼目前流行的手法大概分类（技术线）<br>
 https://x.com/evilcos/status/1709135646294671595?s=20
 
