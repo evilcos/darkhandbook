@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+貔貅盘一直很泛滥，谨慎对待“机扫安全数据”...<br>
+https://x.com/evilcos/status/1720311395512906196?s=20
+
+慢雾发布《智能合约安全审计技能树》<br>
+https://x.com/evilcos/status/1714893390800945587?s=20
+
 慎用围绕 friend.tech 做的各类工具<br>
 https://x.com/evilcos/status/1714178009291456602?s=20
 
