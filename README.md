@@ -11,6 +11,18 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+钓鱼用 Create2 来预创建资金接收地址，绕过钱包的安全检测机制<br>
+https://x.com/evilcos/status/1723642251853922595?s=20
+
+又一个设计感很好的链游木马<br>
+https://x.com/evilcos/status/1721847917152198914?s=20
+
+记住 approve 与 permit/permit2 授权的区别<br>
+https://x.com/evilcos/status/1721753572436738218?s=20
+
+硬件安全密钥(Security Key)是安全认证的标配之一了，在 2FA 场景下可以很好对抗钓鱼网站<br>
+https://x.com/evilcos/status/1721705293250461842?s=20
+
 貔貅盘一直很泛滥，谨慎对待“机扫安全数据”...<br>
 https://x.com/evilcos/status/1720311395512906196?s=20
 
