@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+比特币生态 Atomicals 由于签名类型支持 SIGHASH_NONE，导致用户资产被盗<br>
+https://x.com/evilcos/status/1726992159436644708?s=20
+
+friend.tech 用户被盗的一次成功追回<br>
+https://x.com/evilcos/status/1725148293502767404?s=20
+
 钓鱼用 Create2 来预创建资金接收地址，绕过钱包的安全检测机制<br>
 https://x.com/evilcos/status/1723642251853922595?s=20
 
