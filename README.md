@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+Atomicals 资产燃烧风险<br>
+https://x.com/evilcos/status/1737738046265872455?s=20
+
+比特币低手续费霸占铭文等资产 PSBT 交易风险<br>
+https://x.com/evilcos/status/1735685957662441563?s=20
+
+使用 Passkey 认证机制的钱包，一种安全与体验平衡不错的方式<br>
+https://x.com/evilcos/status/1734137806015037631?s=20
+
 案例分享：经典授权钓鱼如何分析定位<br>
 https://x.com/evilcos/status/1732627608440115665?s=20
 
