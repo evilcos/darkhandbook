@@ -11,6 +11,24 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+案例分享：定位两年多前留下的授权隐患<br>
+https://x.com/evilcos/status/1743842996498714831?s=20
+
+DDoS/CC 是非常典型的上古时代就开始流行的丛林法则<br>
+https://x.com/evilcos/status/1742123750185947188?s=20
+
+铭文 saʦ vs sats, raʦ vs rats 欺骗 MySQL 数据库解析导致恶意挂单<br>
+https://x.com/evilcos/status/1741064972975952098?s=20
+
+小心土狗铭文项目<br>
+https://x.com/evilcos/status/1740224294494580910?s=20
+
+Avascriptions 平台错误网络提醒机制不充分导致用户打错资产到其他 EVM 链（已解决）<br>
+https://x.com/evilcos/status/1739474148387385783?s=20
+
+小心 Solana 上的钓鱼：一笔签名可以几乎转走你目标钱包地址里的所有资产<br>
+https://x.com/evilcos/status/1739187245456961557?s=20
+
 Atomicals 资产燃烧风险<br>
 https://x.com/evilcos/status/1737738046265872455?s=20
 
