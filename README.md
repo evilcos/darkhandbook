@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+Solana 代币授权风险检查<br>
+https://x.com/evilcos/status/1746360655593226738?s=20
+
+MEV 套利陷阱合约：Easy to Use Arbitrage MEV Bot for Uniswap<br>
+https://x.com/evilcos/status/1745728599171457120?s=20
+
+骗子私信发来的链接为什么显示的是 calendly[.]com 这种真 Calendly 官方链接？<br>
+https://x.com/evilcos/status/1745274487569076354?s=20
+
 案例分享：定位两年多前留下的授权隐患<br>
 https://x.com/evilcos/status/1743842996498714831?s=20
 
