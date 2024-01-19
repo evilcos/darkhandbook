@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+[UPDATE 20240119] Crypto 钓鱼常见手法<br>
+https://x.com/evilcos/status/1748284899453481221?s=20
+
 Solana 代币授权风险检查<br>
 https://x.com/evilcos/status/1746360655593226738?s=20
 
@@ -349,7 +352,7 @@ https://twitter.com/evilcos/status/1600356939845640193?s=20
 看去像乱码的签名是否有风险<br>
 https://twitter.com/evilcos/status/1599258003798396929?s=20
 
-零转载骗局<br>
+零转账骗局<br>
 https://twitter.com/evilcos/status/1598245354951974913?s=20
 
 钓鱼网页模仿 MetaMask 弹框<br>
