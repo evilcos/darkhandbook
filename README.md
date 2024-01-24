@@ -11,6 +11,16 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+一次失败的救援，渔翁最终获利超 470 万美金<br>
+https://x.com/evilcos/status/1749664598742155481?s=20
+
+关于授权的小考题<br>
+https://x.com/evilcos/status/1749644865464660416?s=20<br>
+https://x.com/evilcos/status/1746448070840402390?s=20
+
+Solana 钓鱼在页面上教用户 1->2->3 一步步关闭 Phantom 钱包的安全提醒<br>
+https://x.com/evilcos/status/1748622024748957952?s=20
+
 [UPDATE 20240119] Crypto 钓鱼常见手法<br>
 https://x.com/evilcos/status/1748284899453481221?s=20
 
