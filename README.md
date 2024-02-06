@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+关于 EVM/Solidity/ERC20/721 等等以太坊的这些玩意天生不安全的观点<br>
+https://x.com/evilcos/status/1753064430198526177?s=20
+
+Angel Drainer 针对 EigenLayer Strategy Manager 合约的 queueWithdrawal (0xf123991e) 函数的钓鱼利用<br>
+https://x.com/evilcos/status/1752875528070279623?s=20
+
+如何武装自己的钱包，避开钓鱼<br>
+https://x.com/evilcos/status/1752513050060763502?s=20
+
 一次失败的救援，渔翁最终获利超 470 万美金<br>
 https://x.com/evilcos/status/1749664598742155481?s=20
 
