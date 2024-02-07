@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+推荐教程：私钥泄露的钱包地址如何抢救之后的空投资金或待解锁资金<br>
+https://x.com/evilcos/status/1754820371319300527?s=20
+
 关于 EVM/Solidity/ERC20/721 等等以太坊的这些玩意天生不安全的观点<br>
 https://x.com/evilcos/status/1753064430198526177?s=20
 
