@@ -11,6 +11,16 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+早上又一位 X 友被视频会议木马将数多个钱包洗劫一空，已知损失至少 15 万美金，需要注意的点<br>
+https://x.com/evilcos/status/1761252214369354040?s=20
+
+再披露：“假记者”骗 X 授权发钓鱼链接的套路<br>
+https://x.com/evilcos/status/1756240509969092745?s=20
+
+关于 ERC404 项目安全风险的一些观点<br>
+https://x.com/evilcos/status/1755777391778279525?s=20<br>
+https://x.com/evilcos/status/1755466102061351289?s=20
+
 推荐教程：私钥泄露的钱包地址如何抢救之后的空投资金或待解锁资金<br>
 https://x.com/evilcos/status/1754820371319300527?s=20
 
