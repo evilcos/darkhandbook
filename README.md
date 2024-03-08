@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+想法：有许多被盗是难以知道具体原因的，尤其助记词/私钥泄露这种<br>
+https://x.com/evilcos/status/1764528033556533730?s=20
+
+老钓鱼团伙 PinkDrainer 这样来偷目标地址上的 ETH<br>
+https://x.com/evilcos/status/1763914259262755123?s=20
+
 早上又一位 X 友被视频会议木马将数多个钱包洗劫一空，已知损失至少 15 万美金，需要注意的点<br>
 https://x.com/evilcos/status/1761252214369354040?s=20
 
