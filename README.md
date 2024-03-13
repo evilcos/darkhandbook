@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+比特币钓鱼又来了，理论上一键可以钓走目标钱包地址里的所有 UTXO，其中包括铭文资产、Atomicals 资产等<br>
+https://x.com/evilcos/status/1767709209397956710?s=20
+
+反向钓鱼，揭露骗子团伙，利用 token 精度钓鱼的套路<br>
+https://x.com/evilcos/status/1767493811524206831?s=20
+
+想法：钱包用户交互的“冷静期”/“防火墙”机制<br>
+https://x.com/evilcos/status/1766390328360394907?s=20
+
 想法：有许多被盗是难以知道具体原因的，尤其助记词/私钥泄露这种<br>
 https://x.com/evilcos/status/1764528033556533730?s=20
 
