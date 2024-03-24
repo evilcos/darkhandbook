@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+再科普 permit 离线授权签名<br>
+https://x.com/evilcos/status/1771350889808408780?s=20
+
 比特币钓鱼又来了，理论上一键可以钓走目标钱包地址里的所有 UTXO，其中包括铭文资产、Atomicals 资产等<br>
 https://x.com/evilcos/status/1767709209397956710?s=20
 
