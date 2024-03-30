@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+X/Twitter 被黑发送钓鱼链接，被黑的几个主要原因<br>
+https://x.com/evilcos/status/1773912704635580559?s=20
+
 再科普 permit 离线授权签名<br>
 https://x.com/evilcos/status/1771350889808408780?s=20
 
