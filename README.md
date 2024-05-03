@@ -11,6 +11,18 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+首尾号被钓 1155 个 WBTC，价值近 7000 万美金。这个用户刚刚遭遇了首尾号相似钱包地址的钓鱼攻击<br>
+https://x.com/evilcos/status/1786385658002522293
+
+📓黑手册（区块链黑暗森林自救手册） v1.2 中文版发布，新增“那些工具”章节及更新“贡献者”、“那些官网”<br>
+https://x.com/evilcos/status/1783007122235736369
+
+写得非常好，图亮了😍，授权钓鱼的主要三种技巧的科普：approve/permit/permit2<br>
+https://x.com/evilcos/status/1781999083818992059
+
+带毒的挖矿工具 Ore.vbs<br>
+https://x.com/evilcos/status/1779356331381838157
+
 一个有趣问题：iPhone 安装个知名钱包，然后飞行模式，是否算是很好的硬件钱包？<br>
 https://x.com/evilcos/status/1775727351693037732
 
