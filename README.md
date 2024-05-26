@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+TON Tonkeeper 转账消息 comment 机制被钓鱼利用<br>
+https://x.com/evilcos/status/1788755896186880276
+
+如何防御首尾号钓鱼<br>
+https://x.com/evilcos/status/1786576421688660111
+
 首尾号被钓 1155 个 WBTC，价值近 7000 万美金。这个用户刚刚遭遇了首尾号相似钱包地址的钓鱼攻击<br>
 https://x.com/evilcos/status/1786385658002522293
 
