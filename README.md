@@ -11,6 +11,10 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+Chrome 恶意扩展如果有 Cookies 读写权限，危害：<br>
+https://x.com/evilcos/status/1797639815917384080<br>
+https://x.com/evilcos/status/1797550276926411080
+
 是不是飘了？来来来，安全小考题又来了...下面哪个 token 没有 permit 离线授权钓鱼风险？<br>
 https://x.com/evilcos/status/1797219088085004391
 
