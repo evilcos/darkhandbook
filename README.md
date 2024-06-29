@@ -11,6 +11,10 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+TON 钓鱼一键盗取用户 TON 钱包里的有关资产（包括 NFT，特别的如 Anonymous Telegram Numbers 等）<br>
+https://x.com/evilcos/status/1805478404382507305<br>
+https://x.com/evilcos/status/1805051980634857798
+
 Chrome 恶意扩展如果有 Cookies 读写权限，危害：<br>
 https://x.com/evilcos/status/1797639815917384080<br>
 https://x.com/evilcos/status/1797550276926411080
