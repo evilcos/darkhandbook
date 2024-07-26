@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+用魔法打败魔法：[­­­Ch­­­a­t­­­G­­P­­­T­­] How ­A­­I hel­ps me e­ar­­n E­t­­­he­­­­re­um 2,400$ Daily 骗局<br>
+https://x.com/evilcos/status/1816699668409262164
+
+关于 permit 离线授权机制争议的看法<br>
+https://x.com/evilcos/status/1816030237584703546
+
 案例：简单解析除了常见的授权钓鱼，还有什么姿势可以钓走你的资产<br>
 https://x.com/evilcos/status/1811622322375393613
 
