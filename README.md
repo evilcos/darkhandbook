@@ -11,6 +11,17 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+TX1z3qJy1MQcma7VMab2rMrB5JrFvpHCMM<br>
+TX1z3qJy1MQcma7VMab2rMrB5JrFvpHСММ<br>
+这两个地址最后三字符的区别是什么？<br>
+https://x.com/evilcos/status/1823216037325836323
+
+老伎俩，汇丰银行账面余额的坑（USD CLEARING CHEQUE）<br>
+https://x.com/evilcos/status/1822813334972096765
+
+X/Twitter 被盗了怎么办？<br>
+https://x.com/evilcos/status/1818809893907996676
+
 用魔法打败魔法：[­­­Ch­­­a­t­­­G­­P­­­T­­] How ­A­­I hel­ps me e­ar­­n E­t­­­he­­­­re­um 2,400$ Daily 骗局<br>
 https://x.com/evilcos/status/1816699668409262164
 
