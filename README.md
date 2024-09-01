@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+5547 万枚 DAI 被 Inferno Drainer 一笔钓走，受害者有关 DSProxy 合约的 owner 被钓鱼设置（SetOwner）成了钓鱼有关钱包地址。这个手法和当年搞 OpenSea Wyvern Protocol 类似<br>
+https://x.com/evilcos/status/1826129033324802433
+
 TX1z3qJy1MQcma7VMab2rMrB5JrFvpHCMM<br>
 TX1z3qJy1MQcma7VMab2rMrB5JrFvpHСММ<br>
 这两个地址最后三字符的区别是什么？<br>
