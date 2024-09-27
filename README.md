@@ -11,6 +11,18 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+注意 GMGN、DEXTools、DEX Screener 等平台的各种貔貅盘，除了第三方安全工具判断也可以结合 Claude/GPT 辅助，效果不错<br>
+https://x.com/evilcos/status/1838874085641859321
+
+用 Cursor 实现的 BIP39 Mnemonic Recovery Calculator<br>
+https://x.com/evilcos/status/1837001617482338631
+
+留意 Blast WETH 的可升级及 permit 离线授权签名钓鱼风险<br>
+https://x.com/evilcos/status/1836569696742838470
+
+上古技巧，永不落后...🤣钓鱼引诱你按说明执行了恶意代码<br>
+https://x.com/evilcos/status/1834497295049691576
+
 5547 万枚 DAI 被 Inferno Drainer 一笔钓走，受害者有关 DSProxy 合约的 owner 被钓鱼设置（SetOwner）成了钓鱼有关钱包地址。这个手法和当年搞 OpenSea Wyvern Protocol 类似<br>
 https://x.com/evilcos/status/1826129033324802433
 
