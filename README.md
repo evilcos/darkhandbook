@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+呼吁缓解或根除 permit/permit2 这类离线授权签名风险<br>
+https://x.com/evilcos/status/1844675640718745874<br>
+https://x.com/evilcos/status/1844593157654086115<br>
+https://x.com/evilcos/status/1844746404922831183<br>
+https://x.com/evilcos/status/1845631292169503005<br>
+https://x.com/evilcos/status/1845632816077480435<br>
+https://x.com/evilcos/status/1846732024536879605
+
+
 注意 GMGN、DEXTools、DEX Screener 等平台的各种貔貅盘，除了第三方安全工具判断也可以结合 Claude/GPT 辅助，效果不错<br>
 https://x.com/evilcos/status/1838874085641859321
 
