@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+AI 投毒攻击：用 GPT 给出的代码来写 bot，没想到 GPT 给的代码是带后门的，会将私钥发给钓鱼网站<br>
+https://x.com/evilcos/status/1859752658061623593
+
+安全小习惯：清除剪切板>br>
+https://x.com/evilcos/status/1855590656108007870
+
 Lottie Player 模块投毒事件，前端引用第三方 js 的最佳安全实践<br>
 https://x.com/evilcos/status/1851795341710102694
 
