@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+又一起针对 Crypto 行业的 XSS 攻击，攻击者利用 Cointelegraph 网站的 XSS 漏洞，钓用户 X 账号权限<br>
+https://x.com/evilcos/status/1861938366541111372
+
+Mac 电脑被投毒恶意代码（冒充假 VC 引用下载恶意的会议软件）后应该怎么办<br>
+https://x.com/evilcos/status/1861417641174552803
+
 AI 投毒攻击：用 GPT 给出的代码来写 bot，没想到 GPT 给的代码是带后门的，会将私钥发给钓鱼网站<br>
 https://x.com/evilcos/status/1859752658061623593
 
