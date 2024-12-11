@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+Telegram Safeguard 骗局引导运行 Powershell 恶意代码<br>
+https://x.com/evilcos/status/1866454053129269371
+
+@solana/web3.js 供应链投毒事件<br>
+https://x.com/evilcos/status/1864101006247907415
+
+又一个画蛇添足机制导致的被盗...Arbitrum WBTC 支持的 permit 机制被钓鱼利用...<br>
+https://x.com/evilcos/status/1862851691214983365
+
 又一起针对 Crypto 行业的 XSS 攻击，攻击者利用 Cointelegraph 网站的 XSS 漏洞，钓用户 X 账号权限<br>
 https://x.com/evilcos/status/1861938366541111372
 
