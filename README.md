@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+安全小测试：一天天被黑，累了，现在有个安全脚本，可以提升你的安全能力<br>
+https://x.com/evilcos/status/1876944361843458172
+
+Twitter/X 被盗的一些原因（谈烂了...）<br>
+https://x.com/evilcos/status/1875222938607350103
+
 Telegram Safeguard 骗局引导运行 Powershell 恶意代码<br>
 https://x.com/evilcos/status/1866454053129269371
 
