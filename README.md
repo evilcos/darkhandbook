@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+针对 X 的双因素钓鱼攻击，以相关推文版权侵权为由进行恐吓式诱骗<br>
+https://x.com/evilcos/status/1878332470070055369
+
+一个貔貅盘小技巧，虽然合约是开源验证的，但在 _spendAllowance 做了点手脚，多了个没必要存在的 SafeMath.mod 操作<br>
+https://x.com/evilcos/status/1878092151969784274
+
+这个用户因为交易模拟欺骗被钓走 143.45 ETH...<br>
+https://x.com/evilcos/status/1877595988896133246
+
 安全小测试：一天天被黑，累了，现在有个安全脚本，可以提升你的安全能力<br>
 https://x.com/evilcos/status/1876944361843458172
 
