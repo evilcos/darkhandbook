@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+喂价源欺骗造就了 Solana 上一堆 Spam MEME 的繁荣<br>
+https://x.com/evilcos/status/1883752381864915231
+
+团队安全分享：Web3 钓鱼手法解析<br>
+https://x.com/evilcos/status/1882384865829785922
+
+Telegram 假 Safeguard 骗局全解析及事后应对<br>
+https://x.com/evilcos/status/1880088469185417714
+
 针对 X 的双因素钓鱼攻击，以相关推文版权侵权为由进行恐吓式诱骗<br>
 https://x.com/evilcos/status/1878332470070055369
 
