@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+一些恶意 App 通过 OCR 技巧从相册里相关截图中识别提取出带助记词等敏感信息<br>
+https://x.com/evilcos/status/1887399538819785129
+
+此文揭露了最近流行的一些伎俩如何盗走你的 Google 账号权限，很有料<br>
+https://x.com/evilcos/status/1885928489381142682
+
+基于 Privy 的钱包方案，一定要开启 2FA，否则以后可能存在被 1click 方式盗走这个钱包里所有资产的风险<br>
+https://x.com/evilcos/status/1885225071373140183
+
 喂价源欺骗造就了 Solana 上一堆 Spam MEME 的繁荣<br>
 https://x.com/evilcos/status/1883752381864915231
 
