@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+假 Safeguard 盗 Telegram 号宣传视频<br>
+https://x.com/evilcos/status/1895672560588820718
+
+Bybit Safe 多签钱包近 15 亿美金被盗事件，攻击流程图，从左上到右下，从链下投毒到链上利用，步骤不复杂，攻击组合拳很清晰<br>
+https://x.com/evilcos/status/1894984173699637463
+
+一笔 EVM 交易数据/签名内容看不懂，怎么办？<br>
+https://x.com/evilcos/status/1892810506580423008
+
 一些恶意 App 通过 OCR 技巧从相册里相关截图中识别提取出带助记词等敏感信息<br>
 https://x.com/evilcos/status/1887399538819785129
 
