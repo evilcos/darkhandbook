@@ -11,6 +11,13 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+如果你在用 Safe 多签或其他多签（不管什么技术模式），需要注意这几点<br>
+https://x.com/evilcos/status/1898332176535663067
+
+如果你的浏览器钱包钱包扩展突遭损坏，如何化险为夷？<br>
+https://x.com/evilcos/status/1897207307991441875<br>
+https://x.com/evilcos/status/1896465013394842049
+
 假 Safeguard 盗 Telegram 号宣传视频<br>
 https://x.com/evilcos/status/1895672560588820718
 
