@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+通过 Foundry cast sig 技巧及合约源码分析可疑 Input Data 的真实意图<br>
+https://x.com/evilcos/status/1901249396521754948
+
 如果你在用 Safe 多签或其他多签（不管什么技术模式），需要注意这几点<br>
 https://x.com/evilcos/status/1898332176535663067
 
