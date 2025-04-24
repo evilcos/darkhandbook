@@ -11,6 +11,23 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+比特币的链上喊话指南<br>
+https://x.com/evilcos/status/1915019568570867778
+
+Cursor + MCP 打造自己的安全辅助<br>
+https://x.com/evilcos/status/1913599335146872894
+
+看似来自 Google 官方的钓鱼邮件，欺骗你被执法盯上的钓鱼手法<br>
+https://x.com/evilcos/status/1913946026844758218
+
+发布了，MCP 安全检查清单：AI 工具生态系统安全指南/MCP Security Checklist: A Security Guide for the AI Tool Ecosystem<br>
+https://x.com/evilcos/status/1911693187812671608<br>
+https://github.com/slowmist/MCP-Security-Checklist
+
+开始关注上 AI Agent MCP 安全:)<br>
+https://x.com/evilcos/status/1907364251171446935<br>
+https://x.com/evilcos/status/1906905724032360594
+
 通过 Foundry cast sig 技巧及合约源码分析可疑 Input Data 的真实意图<br>
 https://x.com/evilcos/status/1901249396521754948
 
