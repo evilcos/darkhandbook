@@ -11,6 +11,29 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+Web3/Crypto 安全框架两张图<br>
+https://x.com/evilcos/status/1922666955091132633
+
+我们的 MistTrack MCP 上线测试中，链上风险及追踪分析将会变更更简单<br>
+https://x.com/evilcos/status/1922484992141361593
+
+经典案例：过于相信 Chrome 网址提醒机制导致被钓鱼<br>
+https://x.com/evilcos/status/1921392510548533620
+
+EIP-7702 钱包钓鱼风险提醒<br>
+https://x.com/evilcos/status/1920751740099653771<br>
+https://x.com/evilcos/status/1920426997903180126<br>
+https://x.com/SlowMist_Team/status/1920434566541816284
+
+假 Zoom 会议软件投毒攻击币圈有一定影响力的项目方或人士，有几个小细节会比较“猛”<br>
+https://x.com/evilcos/status/1920008072568963213
+
+警惕 AI 幻觉<br>
+https://x.com/evilcos/status/1918611567685562450
+
+慢雾的 AI 安全系列：恶意 MCP 解析：MCP 体系中的隐蔽投毒与操控<br>
+https://x.com/evilcos/status/1916793944006070721
+
 比特币的链上喊话指南<br>
 https://x.com/evilcos/status/1915019568570867778
 
