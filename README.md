@@ -11,6 +11,15 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+Inferno Drainer 利用 MetaMask: EIP-7702 Delegator 完成批量授权钓鱼<br>
+https://x.com/evilcos/status/1926479267078037607
+
+这款打印机官方驱动带后门代码…可以劫持用户剪切板里的钱包地址<br>
+https://x.com/evilcos/status/1924404082179269076
+
+假硬件钱包的一些攻击姿势<br>
+https://x.com/evilcos/status/1924267266327421371
+
 Web3/Crypto 安全框架两张图<br>
 https://x.com/evilcos/status/1922666955091132633
 
