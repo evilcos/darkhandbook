@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+一个安全建议，如果你资金被盗了，钱包地址最好可以公示出来（担心隐私的话可以适当隐去中间一些字符）<br>
+https://x.com/evilcos/status/1929047909091438736
+
 Inferno Drainer 利用 MetaMask: EIP-7702 Delegator 完成批量授权钓鱼<br>
 https://x.com/evilcos/status/1926479267078037607
 
