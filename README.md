@@ -11,6 +11,30 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+一些安全灵魂拷问
+```
+现在还有人会把明文助记词直接地乖乖地备份在密码管理器里？
+https://x.com/evilcos/status/1937527749159321631
+
+现在还有人截图助记词直接丢相册做备份的？
+https://x.com/evilcos/status/1937491587229188480
+
+一个月薪 $5K 的工程师保管着 $10M 资产，然后你相信他，是因为他不敢挪用，还是因为他没办法挪用？
+https://x.com/evilcos/status/1936367383029096497
+
+如果你的梯子程序没猫腻，但你配置的代理线路作恶，可以直接中间人攻击你的 Google/X/Binance/OKX 吗？
+https://x.com/evilcos/status/1934567520792711508
+
+公共 Wi-Fi 的危害是什么？怎么成功实施盗币攻击？有真实案例？
+https://x.com/evilcos/status/1931729027599044676
+```
+
+科普：假 Token 合约代码里的事件日志伪造及 TransferFrom 零转账机制<br>
+https://x.com/evilcos/status/1933718616702398798
+
+安卓风险：恶意 App 会通过 Accessibility 获取界面内容，并用正则表达式筛选出助记词/私钥信息回传给攻击者服务器<br>
+https://x.com/evilcos/status/1930169265384222934
+
 一个安全建议，如果你资金被盗了，钱包地址最好可以公示出来（担心隐私的话可以适当隐去中间一些字符）<br>
 https://x.com/evilcos/status/1929047909091438736
 
