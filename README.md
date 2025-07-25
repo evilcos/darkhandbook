@@ -11,8 +11,27 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
-一些安全灵魂拷问
+假 Zoom 会议钓鱼非常疯狂，好几个受害者上当都是因为感觉实在太像了，我们做了个 Unphishable 演练关卡<br>
+https://x.com/evilcos/status/1947852713309704687<br>
+https://unphishable.io/challenges/fake-zoom-meeting-phishing
+
+案例：一笔被钓 123 万美金资产，钓鱼利用了 Uniswap 的 multicall 机制<br>
+https://x.com/evilcos/status/1947290813874258343
+
+转账有一个坑是需要特别提的，比如你有 Aptos，不小心往你的 Sui 地址上转，那么这笔资金就没了<br>
+https://x.com/evilcos/status/1940986650638888996
+
+Web3 钓鱼挑战平台 Unphishable 启动。我们将流行的钓鱼、社工、投毒等手法打造成一个个关卡<br>
+https://unphishable.io 
+
+安全有关的一些灵魂拷问 1-7
 ```
+现在还有人转账大额资金时不用钱包自带的地址白名单功能？
+https://x.com/evilcos/status/1940672407532142645
+
+现在还有人的钱包没备份助记词的？
+https://x.com/evilcos/status/1940022139761131672
+
 现在还有人会把明文助记词直接地乖乖地备份在密码管理器里？
 https://x.com/evilcos/status/1937527749159321631
 
