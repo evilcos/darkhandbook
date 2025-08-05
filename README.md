@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+Telegram 盗号流程做得越来越方便用户被盗号了…<br>
+https://x.com/evilcos/status/1949705260752150998
+
 假 Zoom 会议钓鱼非常疯狂，好几个受害者上当都是因为感觉实在太像了，我们做了个 Unphishable 演练关卡<br>
 https://x.com/evilcos/status/1947852713309704687<br>
 https://unphishable.io/challenges/fake-zoom-meeting-phishing
