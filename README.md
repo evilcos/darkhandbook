@@ -11,6 +11,19 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+攻击 Venus 大户的黑客，假 Zoom + Venus 协议利用<br>
+https://x.com/evilcos/status/1963250077146776003<br>
+https://x.com/evilcos/status/1962834677871583256
+
+EIP-7702 delegate 恶意合约利用，玩家 $WLFI 被盗事件<br>
+https://x.com/evilcos/status/1962534941901902057
+
+100 万美金一笔被钓，涉及 5 个 token，原理是 EIP-7702 利用<br>
+https://x.com/evilcos/status/1958826172424626410
+
+😈区块链加密资产追踪手册 Crypto Asset Tracing Handbook<br>
+https://x.com/evilcos/status/1956219995014475906
+
 Telegram 盗号流程做得越来越方便用户被盗号了…<br>
 https://x.com/evilcos/status/1949705260752150998
 
