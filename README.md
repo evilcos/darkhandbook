@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+利用了 Safe Multi Send 机制 + 前端劫持完成对特定用户的授权钓鱼攻击<br>
+https://x.com/evilcos/status/1966327275902972126
+
 攻击 Venus 大户的黑客，假 Zoom + Venus 协议利用<br>
 https://x.com/evilcos/status/1963250077146776003<br>
 https://x.com/evilcos/status/1962834677871583256
