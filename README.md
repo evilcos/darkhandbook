@@ -11,6 +11,21 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+漏洞小解析：Abracadabra(MIM) 工程管理混乱，条件判断里的关键变量被非预期覆盖<br>
+https://x.com/evilcos/status/1975438468219326502
+
+私钥风险：用 Google/Apple 方式登录 MetaMask，其助记词/私钥，包括之后导入的会被加密上传到 MetaMask 旗下的服务器里<br>
+https://x.com/evilcos/status/1974129285368840341
+
+Pendle 大户“玩鹰被啄”，合约存在任意调用漏洞，导致授权资产被盗<br>
+https://x.com/evilcos/status/1973313212281135268
+
+Solana 钓鱼预执行欺骗，篡改用户账号 owner 地址<br>
+https://x.com/evilcos/status/1972539076097331346
+
+安全小考题：找出一个 Rug Pull 项目的一笔资金来源，与 Stargate/Layerzero 跨链细节有关<br>
+https://x.com/evilcos/status/1972272831078752421
+
 利用了 Safe Multi Send 机制 + 前端劫持完成对特定用户的授权钓鱼攻击<br>
 https://x.com/evilcos/status/1966327275902972126
 
