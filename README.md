@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+x402 支付协议小测试<br>
+https://x.com/evilcos/status/1982343697036677212
+
+扑克牌奇偶随机数生成助记词的安全性<br>
+https://x.com/evilcos/status/1980972155501453797
+
 漏洞小解析：Abracadabra(MIM) 工程管理混乱，条件判断里的关键变量被非预期覆盖<br>
 https://x.com/evilcos/status/1975438468219326502
 
