@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+GMGN 账号模式下的一些安全问题<br>
+https://x.com/evilcos/status/1983192656709857721<br>
+https://x.com/evilcos/status/1984589834615505181<br>
+https://x.com/evilcos/status/1984812963694526914<br>
+https://x.com/haze0x/status/1988217009335922861
+
 x402 支付协议小测试<br>
 https://x.com/evilcos/status/1982343697036677212
 
