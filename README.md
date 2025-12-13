@@ -11,6 +11,12 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+😈更新：区块链加密资产追踪手册 Crypto Asset Tracing Handbook<br>
+https://x.com/evilcos/status/1998364130466767058
+
+一笔钓鱼签名确认，Owner 被改，目标用户损失 300 万美金资产<br>
+https://x.com/evilcos/status/1996176649612882364
+
 GMGN 账号模式下的一些安全问题<br>
 https://x.com/evilcos/status/1983192656709857721<br>
 https://x.com/evilcos/status/1984589834615505181<br>
