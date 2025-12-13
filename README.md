@@ -11,6 +11,9 @@ Blockchain dark forest selfguard handbook<br>
 
 这里会列一些我个人总结的、围绕黑手册的扩展阅读，基本都会是 Twitter Thread 形式。
 
+安全审计时总会 Spec Coding 一些辅助工具，这里开源 Storage Inspector<br>
+https://x.com/evilcos/status/1999720785485922457
+
 😈更新：区块链加密资产追踪手册 Crypto Asset Tracing Handbook<br>
 https://x.com/evilcos/status/1998364130466767058
 
